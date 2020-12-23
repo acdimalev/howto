@@ -1,5 +1,4 @@
-Decontamination // Slimelung Quarantine
----------------------------------------
+% Decontamination // Slimelung Quarantine
 
 Early in the game, your options for decontamination are limited.  You can, however, quarantine the slimelung to let a lot of it die off, and clean your dupes hands in the process.
 
